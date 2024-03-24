@@ -1,0 +1,4 @@
+const access_token="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmNmI4MWEzNWZjNTY0YmI1MDdkN2NiODdkYzMxMDMyZSIsInN1YiI6IjY1ZjY5OTAwMjg3MjNjMDE3Y2I3ZTY4OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.4hUXt1ZbwmIXewd-MHvN6jJr1sEmxkjARdheeL5cDLk"
+const api_key="f6b81a35fc564bb507d7cb87dc31032e"
+
+export {access_token,api_key}
